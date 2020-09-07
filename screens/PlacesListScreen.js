@@ -7,7 +7,7 @@ import HeaderButton from '../components/HeaderButton';
 const PlacesListScreen = props => {
   return (
     <View>
-      <Text>this is PlacesListScreen</Text>
+      <Text>zbzbgndPlacesListScreen</Text>
     </View>
   );
 };
