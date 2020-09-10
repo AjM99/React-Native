@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 const NewPlaceScreen = props => {
   return (
     <View>
-      <Text>this is NewPlaceScreen</Text>
+      <Text> this a is  gjk   NewPlaceScreen</Text>
     </View>
   );
 };

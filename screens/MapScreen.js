@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 const MapScreen = props => {
   return (
     <View>
-      <Text>sdfsds sgd this is MapScreen</Text>
+      <Text> gh hg kj this is MapScreen</Text>
     </View>
   );
 };
