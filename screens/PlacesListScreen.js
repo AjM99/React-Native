@@ -7,7 +7,7 @@ import HeaderButton from '../components/HeaderButton';
 const PlacesListScreen = props => {
   return (
     <View>
-      <Text> sfsdf sdfsf dfsdPlacesListScreen</Text>
+      <Text> sfsdf dvxcv sdfsf dfsdPlacesListScreen</Text>
     </View>
   );
 };
